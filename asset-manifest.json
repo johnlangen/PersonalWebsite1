@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite1/static/css/main.1aa5273e.chunk.css",
+    "main.js": "/PersonalWebsite1/static/js/main.f72454c5.chunk.js",
+    "main.js.map": "/PersonalWebsite1/static/js/main.f72454c5.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite1/static/js/runtime-main.64170a79.js",
+    "runtime-main.js.map": "/PersonalWebsite1/static/js/runtime-main.64170a79.js.map",
+    "static/js/2.4b629c72.chunk.js": "/PersonalWebsite1/static/js/2.4b629c72.chunk.js",
+    "static/js/2.4b629c72.chunk.js.map": "/PersonalWebsite1/static/js/2.4b629c72.chunk.js.map",
+    "index.html": "/PersonalWebsite1/index.html",
+    "precache-manifest.28439b301e01fd1c943c840bdbecbd3a.js": "/PersonalWebsite1/precache-manifest.28439b301e01fd1c943c840bdbecbd3a.js",
+    "service-worker.js": "/PersonalWebsite1/service-worker.js",
+    "static/css/main.1aa5273e.chunk.css.map": "/PersonalWebsite1/static/css/main.1aa5273e.chunk.css.map",
+    "static/js/2.4b629c72.chunk.js.LICENSE.txt": "/PersonalWebsite1/static/js/2.4b629c72.chunk.js.LICENSE.txt",
+    "static/media/project1.pdf": "/PersonalWebsite1/static/media/project1.c4c93b03.pdf",
+    "static/media/project2.pdf": "/PersonalWebsite1/static/media/project2.8f21f382.pdf",
+    "static/media/resume.pdf": "/PersonalWebsite1/static/media/resume.e42d2575.pdf",
+    "static/media/resumePhoto.png": "/PersonalWebsite1/static/media/resumePhoto.603d9962.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64170a79.js",
+    "static/js/2.4b629c72.chunk.js",
+    "static/css/main.1aa5273e.chunk.css",
+    "static/js/main.f72454c5.chunk.js"
+  ]
+}
